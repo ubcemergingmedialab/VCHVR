@@ -1,0 +1,4 @@
+repository "VCHVR@142.103.81.170:8087"
+  path "/"
+    smartbranch "/main/EnvironmentSetUp" changeset "27"    
+     
